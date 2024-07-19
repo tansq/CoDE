@@ -1,0 +1,6 @@
+forgery/00000.png gt/00000.png
+forgery/00001.tif gt/00001.jpg
+forgery/00002.png gt/00002.png
+forgery/00003.png gt/00003.png
+forgery/00004.png gt/00004.png
+forgery/00005.png gt/00005.png
